@@ -100,8 +100,4 @@ cd portfolio-repo
 npm install
 npm run dev
 
-Future Improvements
-Add technical blog section
-Add architecture diagrams for major projects
-Add performance benchmarking reports
-Add case studies with deeper technical breakdowns
+
